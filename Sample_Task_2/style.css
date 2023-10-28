@@ -1,0 +1,40 @@
+
+/* heading */
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+/* body */
+
+body {
+
+    background-color: blueviolet;
+}
+
+/* heading */
+h2{
+    color: aliceblue;
+    text-align: justify;
+}
+
+
+/* paragraph */
+
+p{
+    color: goldenrod;
+    text-align: center;
+}
+
+/* image */
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+/* List of players */
+
+ol{
+    text-align:justify;
+}
